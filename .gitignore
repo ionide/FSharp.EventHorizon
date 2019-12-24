@@ -1,0 +1,6 @@
+.ionide
+paket-files
+packages
+bin
+obj
+test.cmd

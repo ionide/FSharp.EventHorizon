@@ -1,0 +1,8 @@
+{
+    "FSharp.analyzersPath": [
+        "packages/Analyzers",
+        "analyzers",
+        "src/FSharp.EventHorizon.Analyzer/bin"
+    ],
+    "FSharp.enableAnalyzers": true
+}
